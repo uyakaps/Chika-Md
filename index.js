@@ -3221,8 +3221,10 @@ Sudah Berapa Lama Main Toram :
     ¦        ❀             
 
    ❀
+   
+   Form diatas cukup *SALIN>ISI>KIRIM* Tidak perlu di tulis ulang
    Form Diatas Diisi *Dengan Serius* Demi Kenyamanan Bersama.
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Setelah Mengisi Form Harap Membaca Tentang Aturan Di Dalam Guild
 
 - Jaga *ATTITUDE*
@@ -3250,9 +3252,6 @@ Setelah Mengisi Form Harap Membaca Tentang Aturan Di Dalam Guild
 - *BISA MEMBACA*
 
 Hadir event Guild kalo gabisa hadir kasih tau ke *LEADER DAN VICE*
-
-Form diatas cukup *SALIN>ISI>KIRIM* Tidak perlu di tulis ulang
-
 Selamat Bergabung Dan Have Fun`)
 		    
 
