@@ -83,7 +83,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}gsmarena 
   *≻* ${prefix}Formintro 
   *≻* ${prefix}nowplayingbioskop 
-  *≻* ${prefix}aminio 
+  *≻* ${prefix}buffland 
   *≻* ${prefix}wattpad 
   *≻* ${prefix}webtoons 
   *≻* ${prefix}drakor 
