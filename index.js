@@ -3289,8 +3289,135 @@ Selamat Bergabung Dan Have Fun`)
             chika.sendImage(m.chat, res.result[0].img, capt, m)
             }
             break
-            case 'aminio': {
-            if (!q) return reply(`Example: ${prefix + command} free fire`)
+            case 'buffland': {
+            if (!q) return reply(`🍙🍘 *Food Buff Vermelion* 🍘🍙
+
+*_Update setiap minggu awal di bulan baru_*
+*_Jika buffland anda naik level harap hubungi admin_*
+
+Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklumi mungkin karena kurang bahan atau sibuk
+( *Minimal buff Lv 4 untuk masuk list ini* )
+︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
+🍜 *Attack MP Recovery*
+• Cyliaー : LV 9
+• Mikihiko : LV 9
+• KumaQi : LV 9
+• Nezugi : LV 9
+• Lolita Pedofily : LV 9
+• Xalevis : LV 8
+• Putri101 : LV 8
+• Sanemi : LV 8
+• ZaSha : LV 8
+• hy : LV 8
+• Guenne : LV 7
+• Mogumax : LV 7
+
+︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
+🍳 *Max HP* 
+• RaY_ : LV 9
+• _Lichira : LV 9
+• IceMochi : LV 8
+• Hibarae : LV 8
+• YosiJR : LV 7
+• Nixie : LV 7
+• Jinsho : LV 6
+• Ambiyah : LV 6
+• Aryandi1 : LV 5
+
+︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
+🍛 *Max MP*
+• DARK LEGION : LV 9
+• YamiZX : LV 8
+• Natachan : LV 8
+• Macruz° : LV 8
+• Day zero : LV 8
+• RythRoid : LV 8
+• Tethra : LV 7
+• ANELA : LV 7
+• FinsenKun : LV 7
+
+︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
+🍕 *Weapon Attack* 
+• CanZuu : LV 9
+• Huegeng : LV 8
+• (Yusha) : LV 8
+• <Shiro> : LV 8
+• Ash lynx : LV 7
+• Cyzarine : LV 6
+• Ash Lynx : LV 6
+• NAO : LV 6
+• D I N : LV 5
+
+︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
+🍄 *+Aggro* 
+• Nirvana : LV 9
+• Ral : LV 6
+
+︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
+🍄 *-Aggro*
+• NPC112 : LV 7
+
+︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
+🍙 *STR* 
+• Aloe : LV 8
+• -Rinne- : LV 8
+• Liena : LV 7
+• D Arcy : LV 6
+• bekok989 : LV 6
+• -Yukino™ : LV 6
+• zethy : LV 6
+• ifrit : LV 5
+• •Bylia : LV 5
+• Noir : LV 4
+
+︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
+🍙 *AGI* 
+• Agitomanda : LV 8
+
+︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
+🍙 *VIT*
+• Leonhard : LV 4
+
+︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
+🍙 *DEX* 
+• Serenia : LV 9
+• Cacuriy : LV 6
+• Randgrid : LV 5
+
+︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
+
+🍙 INT
+• tatach : LV 7
+
+︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
+🐙 *Critical rate* 
+• Fadil☆XD : LV 9
+• Eifan : LV 9
+• Lil Lanxrd : LV 9
+• NicoDxA : LV 9
+• Tohka : LV 8
+• Caster : LV 8
+• BEKA : LV 8
+• AssaLaM : LV 8
+• Vynne : LV 8
+• NIU : LV 8
+
+︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
+🍖 *Magic Resistance*
+• Aloe : LV 8
+• • Rietta • : LV 5
+• Michi : LV 4
+
+︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
+🦐 *Physical Resistance*
+• Serenia : LV 8
+• Vias : LV 7
+
+︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
+🥞 *Fractional*
+
+
+*Update date :* 24 Maret 2022`)
             reply(mess.wait)
             let res = await fetchJson(api('zenz', '/webzone/amino', { query: text }, 'apikey'))
             let capt = `Amino Search From : ${text}\n\n`
