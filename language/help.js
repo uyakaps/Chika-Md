@@ -544,7 +544,7 @@ exports.searchmenu = (prefix) => {
   *≻* ${prefix}manga 
   *≻* ${prefix}playstore 
   *≻* ${prefix}gsmarena 
-  *≻* ${prefix}jadwalbioskop 
+  *≻* ${prefix}forminfo 
   *≻* ${prefix}nowplayingbioskop 
   *≻* ${prefix}aminio 
   *≻* ${prefix}wattpad 
