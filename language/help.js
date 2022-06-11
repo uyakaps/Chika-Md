@@ -356,7 +356,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}script
   *≻* ${prefix}ping
   *≻* ${prefix}runtime
-  *≻* ${prefix}buffland
+  *≻* ${prefix}izumiaw
   *≻* ${prefix}owner
   *≻* ${prefix}menu
   *≻* ${prefix}delete
