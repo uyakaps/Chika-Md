@@ -3186,7 +3186,7 @@ let capt = `⭔ Title: ${judul}
             chika.sendImage(m.chat, thumb, capt, m)
             }
             break
-            case 'Formintro': {
+            case 'Jadwalbioskop': {
 
                 if (!q) return reply(`━━━༺ _*WELCOME*_ ༻━━━
 
