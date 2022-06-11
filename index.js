@@ -3329,8 +3329,6 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 • Aryandi1 : LV 6
 • Sirano : LV 6
 
-
-
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🍛 *Max MP*
 • DARK LEGION : LV 9
@@ -3356,7 +3354,6 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 • NAO : LV 6
 • D I N : LV 5
 • Yuki Lan : LV 7
-
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🍄 *+Aggro* 
@@ -3397,8 +3394,8 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 • Serenia : LV 9
 • Cacuriy : LV 6
 • P7.  : LV 6
+• Aimi : LV 7
 • Randgrid : LV 5
-• Aimi : LV 5
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 
@@ -3474,6 +3471,7 @@ Buff DTE ada setiap hari Rabu atau Sabtu atau mungkin keduanya
 • ●︿●Kanrojixo : LV 6
 • Nirvana : LV 5
 • Cyzarine : LV 3
+
 🌪️ DTE Wind 🌪️
 
 • 
