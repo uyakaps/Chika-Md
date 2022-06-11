@@ -3097,11 +3097,11 @@ url: `${youtube}`
 const sendm = chika.sendMessage(from, templateMessage)
 }
 break
-case 'buffland': {
+case 'izumiaw': {
 let timestamp = speed()
 let latensi = speed() - timestamp
 const templateMessage = {
-text: '*⚡ Kecepatan Bot*',footer: `${latensi.toFixed(4)} Second`,
+text: '*izumiaw udah pensi, akulah penggantinya Rika-chan yg hebat hunyaa~oinyaa, klo butuh apa apa ketik  *Menu* yak tuan *',footer: `${latensi.toFixed(4)} Second`,
 
 templateButtons: [
 {
