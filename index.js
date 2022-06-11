@@ -3371,7 +3371,6 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🍙 *STR* 
-• Aloe : LV 8
 • -Rinne- : LV 8
 • Liena : LV 8
 • D Arcy : LV 6
