@@ -3187,15 +3187,77 @@ let capt = `⭔ Title: ${judul}
             }
             break
             case 'jadwalbioskop': {
-            if (!q) return reply(`Example: ${prefix + command} jakarta`)
-            reply(mess.wait)
-            let res = await fetchJson(api('zenz', '/webzone/jadwalbioskop', { kota: text }, 'apikey'))
-            let capt = `Jadwal Bioskop From : ${text}\n\n`
-            for (let i of res.result){
-            capt += `⭔ Title: ${i.title}\n`
-            capt += `⭔ Thumbnail: ${i.thumb}\n`
-            capt += `⭔ Url: ${i.url}\n\n──────────────────────\n`
-            }
+            const templateMessage = {
+
+text: '━━━༺ _*WELCOME*_ ༻━━━
+
+.｡.:✧ *To Specta Vermelion* ✧:.｡.
+
+Nama              :
+
+IGN                  :
+
+Umur               :
+
+Gender            :
+
+Asal                 :
+
+Job andalan   :
+
+Buff                 :
+
+Sudah Berapa Lama Main Toram :
+
+━━━༺ _*Thank You*_ ༻━━━
+
+    ¦         ¦         ¦         ¦          ¦
+
+    ¦         ¦         ¦         ¦         ❀
+
+    ¦         ¦         ¦        ❀         
+
+    ¦         ¦        ❁            
+
+    ¦        ❀             
+
+   ❀`,
+   const templateMessage = {
+
+text: 'Form Diatas Diisi *Dengan Serius* Demi Kenyamanan Bersama.
+
+Setelah Mengisi Form Harap Membaca Tentang Aturan Di Dalam Guild
+
+- Jaga *ATTITUDE*
+
+- Jangan *BAPERAN*
+
+- Dilarang *DRAMA*
+
+- Dilarang *SHARE HENTAI/PORNO*
+
+- Jangan Tampilkan *HARGA* berupa *Rupiah/IDR*(Wajib  PM Yang  *JUALAN*)
+
+- No Bahas Jenis *POLITIK,HOAX*
+
+- Dilarang bahas *MOD/CHEAT*
+
+- Jangan suka *SIDER DARI IN GAME DAN GRUP*
+
+- Tidak Menerima Akun *CLONE*
+
+- Tidak *ON* selama 7 hari *KICK*
+
+- *Izin PM LEAD/VICE* Jika ada kesibukan
+
+- *BISA MEMBACA*
+
+Hadir event Guild kalo gabisa hadir kasih tau ke *LEADER DAN VICE*
+
+Form diatas cukup *SALIN>ISI>KIRIM* Tidak perlu di tulis ulang
+
+Selamat Bergabung Dan Have Fun`,
+	    }
             chika.sendImage(m.chat, res.result[0].thumb, capt, m)
             }
             break
