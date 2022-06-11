@@ -3222,7 +3222,9 @@ Sudah Berapa Lama Main Toram :
 
    ❀`)
 		    
-return reply(`Form Diatas Diisi *Dengan Serius* Demi Kenyamanan Bersama.
+const templateMessage = {
+
+text: 'Form Diatas Diisi *Dengan Serius* Demi Kenyamanan Bersama.
 
 Setelah Mengisi Form Harap Membaca Tentang Aturan Di Dalam Guild
 
@@ -3254,7 +3256,7 @@ Hadir event Guild kalo gabisa hadir kasih tau ke *LEADER DAN VICE*
 
 Form diatas cukup *SALIN>ISI>KIRIM* Tidak perlu di tulis ulang
 
-Selamat Bergabung Dan Have Fun`)
+Selamat Bergabung Dan Have Fun',footer: `© ${ownername}`,
             reply(mess.wait)
 
             let res = await fetchJson(api('zenz', '/webzone/jadwalbioskop', { kota: text }, 'apikey'))
