@@ -3100,7 +3100,9 @@ break
 case 'buffland': {
 let timestamp = speed()
 let latensi = speed() - timestamp
-if (!q) return reply(` ⚡ Kecepatan Bot*`),footer: `${latensi.toFixed(4)} Second`,
+const templateMessage = {
+text: '*⚡ Kecepatan Bot*',footer: `${latensi.toFixed(4)} Second`,
+
 templateButtons: [
 {
 index: 1, 
