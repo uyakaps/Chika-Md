@@ -3097,7 +3097,7 @@ url: `${youtube}`
 const sendm = chika.sendMessage(from, templateMessage)
 }
 break
-case 'buffland': {
+case 'speed': {
 let timestamp = speed()
 let latensi = speed() - timestamp
 const templateMessage = {
