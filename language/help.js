@@ -81,7 +81,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}manga 
   *≻* ${prefix}playstore 
   *≻* ${prefix}gsmarena 
-  *≻* ${prefix}jadwalbioskop 
+  *≻* ${prefix}Formintro 
   *≻* ${prefix}nowplayingbioskop 
   *≻* ${prefix}aminio 
   *≻* ${prefix}wattpad 
