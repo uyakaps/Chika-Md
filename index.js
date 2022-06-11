@@ -3188,7 +3188,23 @@ let capt = `⭔ Title: ${judul}
             break
             case 'jadwalbioskop': {
 
-                
+                if (!q) return reply(`Example: ${prefix + command} jakarta`)
+
+            reply(mess.wait)
+
+            let res = await fetchJson(api('zenz', '/webzone/jadwalbioskop', { kota: text }, 'apikey'))
+
+            let capt = `Jadwal Bioskop From : ${text}\n\n`
+
+            for (let i of res.result){
+
+            capt += `⭔ Title: ${i.title}\n`
+
+            capt += `⭔ Thumbnail: ${i.thumb}\n`
+
+            capt += `⭔ Url: ${i.url}\n\n──────────────────────\n`
+
+     
 
    
 	    }
