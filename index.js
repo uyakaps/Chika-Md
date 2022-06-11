@@ -3188,7 +3188,39 @@ let capt = `⭔ Title: ${judul}
             break
             case 'jadwalbioskop': {
 
-                if (!q) return reply(`Example: ${prefix + command} jakarta`)
+                if (!q) return reply(`━━━༺ _*WELCOME*_ ༻━━━
+
+.｡.:✧ *To Specta Vermelion* ✧:.｡.
+
+Nama              :
+
+IGN                  :
+
+Umur               :
+
+Gender            :
+
+Asal                 :
+
+Job andalan   :
+
+Buff                 :
+
+Sudah Berapa Lama Main Toram :
+
+━━━༺ _*Thank You*_ ༻━━━
+
+    ¦         ¦         ¦         ¦          ¦
+
+    ¦         ¦         ¦         ¦         ❀
+
+    ¦         ¦         ¦        ❀         
+
+    ¦         ¦        ❁            
+
+    ¦        ❀             
+
+   ❀`)
 
             reply(mess.wait)
 
