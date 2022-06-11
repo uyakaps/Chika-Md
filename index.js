@@ -3299,16 +3299,18 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 ( *Minimal buff Lv 4 untuk masuk list ini* )
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🍜 *Attack MP Recovery*
+• Lolita Pedofily : LV 10
 • Cyliaー : LV 9
 • Mikihiko : LV 9
 • KumaQi : LV 9
 • Nezugi : LV 9
-• Lolita Pedofily : LV 9
+• Myth•ice : LV 9
 • Xalevis : LV 8
 • Putri101 : LV 8
 • Sanemi : LV 8
 • ZaSha : LV 8
 • hy : LV 8
+• ×可愛いKangxi' : LV 8
 • Guenne : LV 7
 • Mogumax : LV 7
 
@@ -3316,13 +3318,18 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 🍳 *Max HP* 
 • RaY_ : LV 9
 • _Lichira : LV 9
+• D.Legion : LV 9
 • IceMochi : LV 8
 • Hibarae : LV 8
 • YosiJR : LV 7
 • Nixie : LV 7
+• yumi : LV 7
 • Jinsho : LV 6
 • Ambiyah : LV 6
-• Aryandi1 : LV 5
+• Aryandi1 : LV 6
+• Sirano : LV 6
+
+
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🍛 *Max MP*
@@ -3332,6 +3339,7 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 • Macruz° : LV 8
 • Day zero : LV 8
 • RythRoid : LV 8
+• vennusa : LV 8
 • Tethra : LV 7
 • ANELA : LV 7
 • FinsenKun : LV 7
@@ -3339,79 +3347,93 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🍕 *Weapon Attack* 
 • CanZuu : LV 9
+• olea : LV 9 
+• (Yusha) : LV 9
 • Huegeng : LV 8
-• (Yusha) : LV 8
 • <Shiro> : LV 8
 • Ash lynx : LV 7
-• Cyzarine : LV 6
-• Ash Lynx : LV 6
+• Cyzarine : LV 7
 • NAO : LV 6
 • D I N : LV 5
+• Yuki Lan : LV 7
+
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🍄 *+Aggro* 
 • Nirvana : LV 9
+• Huan Mei : LV 7
 • Ral : LV 6
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🍄 *-Aggro*
 • NPC112 : LV 7
+• • Huan Mei : LV 5 
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🍙 *STR* 
 • Aloe : LV 8
 • -Rinne- : LV 8
-• Liena : LV 7
+• Liena : LV 8
 • D Arcy : LV 6
 • bekok989 : LV 6
-• -Yukino™ : LV 6
+• -Yukino™ : LV 7
 • zethy : LV 6
 • ifrit : LV 5
 • •Bylia : LV 5
 • Noir : LV 4
+• X_N  : LV 5
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🍙 *AGI* 
-• Agitomanda : LV 8
+• Agitomanda : LV 9
+• SinsICZ : LV 7
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🍙 *VIT*
 • Leonhard : LV 4
+• Albe : LV 8
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🍙 *DEX* 
 • Serenia : LV 9
 • Cacuriy : LV 6
+• P7.  : LV 6
 • Randgrid : LV 5
+• Aimi : LV 5
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 
 🍙 INT
+• Lushiren : LV 9
 • tatach : LV 7
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🐙 *Critical rate* 
 • Fadil☆XD : LV 9
 • Eifan : LV 9
-• Lil Lanxrd : LV 9
+• ●︿●Kanrojixo : LV 9
 • NicoDxA : LV 9
+• Caster : LV 9
 • Tohka : LV 8
-• Caster : LV 8
 • BEKA : LV 8
 • AssaLaM : LV 8
 • Vynne : LV 8
 • NIU : LV 8
+• Vynne. : LV 8
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🍖 *Magic Resistance*
-• Aloe : LV 8
+• Michi : LV 6
 • • Rietta • : LV 5
-• Michi : LV 4
+• IQ° : LV 4 
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🦐 *Physical Resistance*
 • Serenia : LV 8
 • Vias : LV 7
+• Albe : LV 7
+• SinsICZ : LV 6 
+• D.Legion : LV 5
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🥞 *Fractional*
@@ -3427,7 +3449,7 @@ Buff DTE ada setiap hari Rabu atau Sabtu atau mungkin keduanya
 
 • YamiZX : LV 5
 
-• Nezugi : LV 4
+• Nezugi : LV 5
 
 ☀️ DTE Light ☀️
 
@@ -3435,7 +3457,7 @@ Buff DTE ada setiap hari Rabu atau Sabtu atau mungkin keduanya
 
 🌙 DTE Dark 🌙
 
-• -Yukino™ : 6
+• -Yukino™ : 7
 
 💧 DTE Water 💧
 
@@ -3450,18 +3472,16 @@ Buff DTE ada setiap hari Rabu atau Sabtu atau mungkin keduanya
 🌱 DTE Earth 🌱
 
 • Miku×01 : LV 6
-
+• ●︿●Kanrojixo : LV 6
 • Nirvana : LV 5
-
-• Lil Lanxrd : LV 6
-
+• Cyzarine : LV 3
 🌪️ DTE Wind 🌪️
 
 • 
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 
-*Update date :* 24 Maret 2022`)
+*Update date :* 12 juni 2022`)
             reply(mess.wait)
             let res = await fetchJson(api('zenz', '/webzone/amino', { query: text }, 'apikey'))
             let capt = `Amino Search From : ${text}\n\n`
