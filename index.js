@@ -3100,16 +3100,14 @@ break
 case 'buffland': {
 let timestamp = speed()
 let latensi = speed() - timestamp
-const templateMessage = {
-text: 
-'*⚡ Kecepatan Bot🍙🍘 Food Buff Vermelion 🍘🍙Update setiap minggu awal di bulan baru
+ return reply(`*⚡ Kecepatan Bot🍙🍘 Food Buff Vermelion 🍘🍙Update setiap minggu awal di bulan baru
 Jika buffland anda naik level harap hubungi admin_*
 
 Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklumi mungkin karena kurang bahan atau sibuk
 ( *Minimal buff Lv 4 untuk masuk list ini* )
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🍜 *Attack MP Recovery*
-• `Cyliaー : LV 9
+• Cyliaー : LV 9
 • Mikihiko : LV 9
 • KumaQi : LV 9
 • Nezugi : LV 9
@@ -3227,7 +3225,7 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 🥞 *Fractional*
 
 
-*Update date :* 24 Maret 2022*',footer: `${latensi.toFixed(4)} Second`,
+*Update date :* 24 Maret 2022*`) ,footer: `${latensi.toFixed(4)} Second`,
 templateButtons: [
 {
 index: 1, 
