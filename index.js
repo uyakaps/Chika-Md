@@ -3415,7 +3415,51 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🥞 *Fractional*
+☀️🌙 *Damage to Element* 🌙☀️
 
+Buff DTE ada setiap hari Rabu atau Sabtu atau mungkin keduanya
+
+(Minimal buff Lv 3 untuk masuk list ini)
+
+︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
+
+💫 DTE Normal 💫
+
+• YamiZX : LV 5
+
+• Nezugi : LV 4
+
+☀️ DTE Light ☀️
+
+• Eifan : LV 4
+
+🌙 DTE Dark 🌙
+
+• -Yukino™ : 6
+
+💧 DTE Water 💧
+
+• 
+
+🔥 DTE Fire 🔥
+
+• ANELA : LV 5
+
+• Tethra : LV 3
+
+🌱 DTE Earth 🌱
+
+• Miku×01 : LV 6
+
+• Nirvana : LV 5
+
+• Lil Lanxrd : LV 6
+
+🌪️ DTE Wind 🌪️
+
+• 
+
+︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 
 *Update date :* 24 Maret 2022`)
             reply(mess.wait)
