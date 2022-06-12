@@ -3102,7 +3102,7 @@ let timestamp = speed()
 let latensi = speed() - timestamp
 const templateMessage = {
 text: '*izumiaw udah pensi, akulah penggantinya Rika-chan yg hebat hunyaa~oinyaa, klo butuh apa apa ketik  *Menu* yak tuan *',footer: `${latensi.toFixed(4)} Second`,
-
+text : 'cek`, 
 templateButtons: [
 {
 index: 1, 
