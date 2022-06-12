@@ -3083,7 +3083,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             break
 case 'runtime': {
 const templateMessage = {
-text: '*🚀 Bot Aktif Selama*',footer: `${runtime(process.uptime())}`,
+text: 'Udin-kun udah pensi, akulah penggantinya Izumiaw yg hebat hunyaa~oinyaa, klo butuh apa apa ketik *Menu* yak tuan*🚀 Bot Aktif Selama*',footer: `${runtime(process.uptime())}`,
 templateButtons: [
 {
 index: 1, 
