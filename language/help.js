@@ -864,7 +864,7 @@ exports.mainmenu = (prefix) => {
   *MAIN MENU*
   *≻* ${prefix}script
   *≻* ${prefix}ping
-  *≻* ${prefix}runtime
+  *≻* ${prefix}din
   *≻* ${prefix}speed
   *≻* ${prefix}owner
   *≻* ${prefix}menu
@@ -953,13 +953,6 @@ exports.thanksto = () => {
 	return`
   *THANKS TO*
   *≻* DikaArdnt
-  *≻* ZeeoneOfc
-  *≻* FatihArridho
-  *≻* Yoga
-  *≻* Riy
-  *≻* Deff
-  *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
+
 `
 }
