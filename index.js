@@ -3537,7 +3537,34 @@ bagi yg mau join silahkan, gk mau gpp`)
             }
             break
             case 'rules': {
-            if (!q) return reply(`Example : ${prefix + command} love`)
+            if (!q) return reply(`Setelah Mengisi Form Harap Membaca Tentang Aturan Di Dalam Guild
+
+- Jaga *ATTITUDE*
+
+- Jangan *BAPERAN*
+
+- Dilarang *DRAMA*
+
+- Dilarang *SHARE HENTAI/PORNO*
+
+- Jangan Tampilkan *HARGA* berupa *Rupiah/IDR*(Wajib  PM Yang  *JUALAN*)
+
+- No Bahas Jenis *POLITIK,HOAX*
+
+- Dilarang bahas *MOD/CHEAT*
+
+- Jangan suka *SIDER DARI IN GAME DAN GRUP*
+
+- Tidak Menerima Akun *CLONE*
+
+- Tidak *ON* selama 7 hari *KICK*
+
+- *Izin PM LEAD/VICE* Jika ada kesibukan
+
+- *BISA MEMBACA*
+
+Hadir event Guild kalo gabisa hadir kasih tau ke *LEADER DAN VICE*
+Selamat Bergabung Dan Have Fun`)
             reply(mess.wait)
             let res = await fetchJson(api('zenz', '/webzone/drakor', { query: text }, 'apikey'))
             let capt = `Drakor Search From : ${text}\n\n`
