@@ -3479,7 +3479,7 @@ Buff DTE ada setiap hari Rabu atau Sabtu atau mungkin keduanya
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 
-*Update date :* 12 juni 2022`)
+*Update date :* 13 juni 2022`)
             reply(mess.wait)
             let res = await fetchJson(api('zenz', '/webzone/amino', { query: text }, 'apikey'))
             let capt = `Amino Search From : ${text}\n\n`
