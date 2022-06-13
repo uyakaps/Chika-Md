@@ -30,7 +30,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}listlvling
   *≻* ${prefix}izumiaw
   *≻* ${prefix}gconnection
-  *≻* ${prefix}Formintro [Formulir Newmember] 
+  *≻* ${prefix}Forminfo [Formulir Newmember] 
   *≻* ${prefix}ephemeral [option]
   *≻* ${prefix}setppgc 
   *≻* ${prefix}setname 
@@ -475,7 +475,7 @@ exports.groupmenu = (prefix) => {
   *≻* ${prefix}listlvling
   *≻* ${prefix}izumiaw
   *≻* ${prefix}gconnection
-  *≻* ${prefix}Formintro
+  *≻* ${prefix}Forminfo
   *≻* ${prefix}linkgroup
   *≻* ${prefix}ephemeral [option]
   *≻* ${prefix}setppgc  
