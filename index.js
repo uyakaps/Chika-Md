@@ -3315,7 +3315,7 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🍳 *Max HP* 
-• RaY_ : LV 9
+• RaY_ : LV 10
 • _Lichira : LV 9
 • D.Legion : LV 9
 • IceMochi : LV 8
@@ -3340,6 +3340,7 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 • Tethra : LV 7
 • ANELA : LV 7
 • FinsenKun : LV 7
+• ° saber° : LV 5
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🍕 *Weapon Attack* 
@@ -3348,6 +3349,7 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 • (Yusha) : LV 9
 • Huegeng : LV 8
 • <Shiro> : LV 8
+• Oyika : LV 8 
 • Ash lynx : LV 7
 • Cyzarine : LV 7
 • NAO : LV 6
@@ -3395,7 +3397,7 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 • P7.  : LV 6
 • Aimi : LV 7
 • Randgrid : LV 5
-
+• AscaRev : LV 5
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 
 🍙 INT
@@ -3410,7 +3412,7 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 • NicoDxA : LV 9
 • Caster : LV 9
 • Tohka : LV 8
-• BEKA : LV 8
+• "Tel"B E K A : LV 9
 • AssaLaM : LV 8
 • Vynne : LV 8
 • NIU : LV 8
