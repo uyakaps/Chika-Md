@@ -3491,8 +3491,32 @@ Buff DTE ada setiap hari Rabu atau Sabtu atau mungkin keduanya
             chika.sendImage(m.chat, 'https://'+res.result[0].community_thumb, capt, m)
             }
             break
-            case 'wattpad': {
-            if (!q) return reply(`Example : ${prefix + command} love`)
+            case 'Listlvling': {
+            if (!q) return reply(`_*Part III*_
+
+1-36 Shell Mask
+36-44 Minotour (Hard) 
+44-59 Minotour (NM) 
+59-70 Masked Warrior (Norm) 
+70-79 Masked Warrior (Hard) 
+79-96 Masked Warrior (NM) 
+96-107 Don Yeti 
+107-115 Masked Warrior (Ulti) 
+115-117 Nightmare Potum
+117-133 Lapin
+133-144 Builder Golem
+144-151 Odelon Machina
+151-160 Commander golem
+160-162 Venena (Hard) 
+162-177 Venena (NM) 
+177-182 Altoblepas
+182-199 Venena (Ulti) 
+199-204 Frenzy Viola 
+204-220 Demonic Eye
+220-230 Espectro
+230-236 nena meta(ulti) 
+236-245 bull
+*Lvling orang beda-beda kalo bingung dimana tanya digrub*`)
             reply(mess.wait)
             let res = await fetchJson(api('zenz', '/webzone/wattpad', { query: text }, 'apikey'))
             let { judul, dibaca, divote, bab, waktu, url, thumb, description } = res.result[0]
