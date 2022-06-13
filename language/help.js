@@ -28,7 +28,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}linkgroup
   *≻* ${prefix}buffland 
   *≻* ${prefix}listlvling
-  *≻* ${prefix}izumiaw
+  *≻* ${prefix}rules
   *≻* ${prefix}gconnection
   *≻* ${prefix}Forminfo [Formulir Newmember] 
   *≻* ${prefix}ephemeral [option]
