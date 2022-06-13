@@ -3530,8 +3530,24 @@ Buff DTE ada setiap hari Rabu atau Sabtu atau mungkin keduanya
             chika.sendImage(m.chat, thumb, capt, m)
             }
             break
-            case 'webtoons': {
-            if (!q) return reply(`Example : ${prefix + command} love`)
+            case 'gconnection': {
+            if (!q) return reply(`ーー＝ーー＝ーー＝ーー＝ーー
+*Grup Specta Core*
+
+_Gabungan Rebbel dan Vermel_
+https://chat.whatsapp.com/BjTm8mMsq0HKwmU7iV91t4
+
+ーー＝ーー＝ーー＝ーー＝ーー
+*Discord*
+
+- DIMSK
+https://discord.gg/Sh4a83U2nk
+
+- Specta Rebel n Vermel
+https://discord.gg/ZHaJhpjwND
+ーー＝ーー＝ーー＝ーー＝ーー
+
+bagi yg mau join silahkan, gk mau gpp`)
             reply(mess.wait)
             let res = await fetchJson(api('zenz', '/webzone/webtoons', { query: text }, 'apikey'))
             let capt = `Webtoons Search From : ${text}\n\n`
