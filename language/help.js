@@ -24,7 +24,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *⏰ Time Server : ${time}*
   *📚 List Menu : ${botname}*
 
-  *GROUP MENU*
+  *VERMELION MENU*
   *≻* ${prefix}linkgroup
   *≻* ${prefix}ephemeral [option]
   *≻* ${prefix}setppgc
