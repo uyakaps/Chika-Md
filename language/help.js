@@ -30,7 +30,6 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}listlvling
   *≻* ${prefix}izumiaw
   *≻* ${prefix}Formintro [Formulir New member] 
-  ======================
   *≻* ${prefix}ephemeral [option]
   *≻* ${prefix}setppgc
   *≻* ${prefix}setname 
