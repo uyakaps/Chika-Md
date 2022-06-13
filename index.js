@@ -3629,7 +3629,7 @@ await chika.sendCatalog(from, 'ALL MENU', lang.allmenu(prefix, pushname, botname
 }
 break
 case 'groupmenu':
-var riych = await getBuffer(picak+'Group Menu')
+var riych = await getBuffer(picak+'Vermilion Menu')
 await chika.send5ButImg(from, `` + '' + lang.groupmenu(prefix), `  © ${ownername}`,riych, [{"urlButton": {"displayText": "YouTube Creator","url": `${youtube}`}},{"urlButton": {"displayText": `Rest Api's`,"url": `${myweb}`}},{"quickReplyButton": {"displayText": "Donasi","id": 'donate'}},{"quickReplyButton": {"displayText": "Back List","id": 'command'}}] )
 break
 case 'downloadermenu':
