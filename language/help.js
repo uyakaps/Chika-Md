@@ -26,6 +26,11 @@ return`  _Selamat ${salam} kak ${pushname}_
 
   *VERMELION MENU*
   *≻* ${prefix}linkgroup
+  *≻* ${prefix}buffland 
+  *≻* ${prefix}listlvling
+  *≻* ${prefix}izumiaw
+  *≻* ${prefix}Formintro [Formulir New member] 
+  ======================
   *≻* ${prefix}ephemeral [option]
   *≻* ${prefix}setppgc
   *≻* ${prefix}setname 
@@ -40,7 +45,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}mute [on/off]
   *≻* ${prefix}promote @user
   *≻* ${prefix}demote @user
-  *≻* ${prefix}vote 
+  *≻* ${prefix}vote [pemilihan sesuatu]
   *≻* ${prefix}devote
   *≻* ${prefix}upvote
   *≻* ${prefix}cekvote
@@ -80,10 +85,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}manga 
   *≻* ${prefix}playstore 
   *≻* ${prefix}gsmarena 
-  *≻* ${prefix}Formintro 
-  *≻* ${prefix}nowplayingbioskop 
-  *≻* ${prefix}buffland 
-  *≻* ${prefix}listlvling 
+  *≻* ${prefix}nowplayingbioskop  
   *≻* ${prefix}webtoons 
   *≻* ${prefix}drakor 
   
@@ -355,7 +357,6 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}script
   *≻* ${prefix}ping
   *≻* ${prefix}runtime
-  *≻* ${prefix}izumiaw
   *≻* ${prefix}owner
   *≻* ${prefix}menu
   *≻* ${prefix}delete
