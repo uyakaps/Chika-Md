@@ -473,7 +473,7 @@ exports.groupmenu = (prefix) => {
   *≻* ${prefix}linkgroup
   *≻* ${prefix}buffland 
   *≻* ${prefix}listlvling
-  *≻* ${prefix}izumiaw
+  *≻* ${prefix}rules
   *≻* ${prefix}gconnection
   *≻* ${prefix}Forminfo
   *≻* ${prefix}linkgroup
