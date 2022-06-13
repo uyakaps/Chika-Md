@@ -3491,7 +3491,7 @@ Buff DTE ada setiap hari Rabu atau Sabtu atau mungkin keduanya
             chika.sendImage(m.chat, 'https://'+res.result[0].community_thumb, capt, m)
             }
             break
-            case 'Listlvling': {
+            case 'listlvling': {
             if (!q) return reply(`_*Part III*_
 
 1-36 Shell Mask
