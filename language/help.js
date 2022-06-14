@@ -458,6 +458,7 @@ keuntungan:
 
   *Contact person Owner* :
   wa.me/62895391158070
+  `
 }
 
 //—————「 Simple Menu 」—————//
