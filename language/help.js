@@ -446,24 +446,18 @@ exports.donasi  = (ownernomer) => {
 	return`
 —————「 *DONATE* 」—————
 
-Hai kak ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
-Berapapun donasi kalian akan sangat berarti 👍
+Hai oni-chan ☺️
+Thanks For donasi xtall!
+Yuk donasi sekarang! 
+keuntungan:
+1. Jika ada 2 orang yg minjam xtall sama, maka salah satu yg donatur akan di prioritaskan
+2. Kamu selalu diutamakan🥰
 
-Thanks!
-
-—————「 *SEWA | RUN BOT* 」—————
-
-  *_SEWA BOT_* 
-  
-  
-  
 
   *Minat? Langsung chat aja ya cuy 🐦*
 
   *Contact person Owner* :
-  wa.me/${ownernomer}
-`
+  wa.me/62895391158070
 }
 
 //—————「 Simple Menu 」—————//
