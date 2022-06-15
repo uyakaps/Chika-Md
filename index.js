@@ -2886,7 +2886,7 @@ Akses dengan ${prefix}getmsg ${text}
 Lihat list Pesan Dengan ${prefix}listmsg`)
             }
             break
-            case 'dyegem': {
+            case 'getmsg': {
                 if (!q) return reply(`Example : ${prefix + command} file name\n\nLihat list pesan dengan ${prefix}listmsg`)
                 let msgs = global.db.data.database
                 if (!(text.toLowerCase() in msgs)) throw `'${text}' tidak terdaftar di list pesan`
