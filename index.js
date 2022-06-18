@@ -3357,10 +3357,9 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 ( *Minimal buff Lv 4 untuk masuk list ini* )
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🍜 *Attack MP Recovery*
-• Lolita Pedofily : LV 10
+• Lolita Pedofily : LV 9
 • Cyliaー : LV 9
 • Mikihiko : LV 9
-• KumaQi : LV 9
 • Nezugi : LV 9
 • Myth•ice : LV 9
 • Xalevis : LV 8
@@ -3482,7 +3481,7 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 • Michi : LV 6
 • • Rietta • : LV 5
 • IQ° : LV 4 
-
+• Agitomanda : LV 4
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🦐 *Physical Resistance*
 • Serenia : LV 8
