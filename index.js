@@ -3390,6 +3390,7 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 🍛 *Max MP*
 • DARK LEGION : LV 9
 • YamiZX : LV 8
+• LexZero : LV 8
 • Natachan : LV 8
 • Macruz° : LV 8
 • Day zero : LV 8
@@ -3492,6 +3493,7 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 🥞 *Fractional*
+•LexZero : LV 8
 ☀️🌙 *Damage to Element* 🌙☀️
 
 Buff DTE ada setiap hari Rabu atau Sabtu atau mungkin keduanya
