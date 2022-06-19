@@ -29,7 +29,8 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}buffland 
   *≻* ${prefix}listlvling
   *≻* ${prefix}rules
-  *≻* ${prefix}dyegem
+  *≻* ${prefix}gemdye
+  *≻* ${prefix}inviter
   *≻* ${prefix}gconnection
   *≻* ${prefix}Forminfo [Formulir Newmember] 
   *≻* ${prefix}ephemeral [option]
