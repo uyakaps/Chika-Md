@@ -2979,6 +2979,20 @@ zolban: (c42)`)
                 chika.copyNForward(m.chat, msgs[text.toLowerCase()], true)
             }
             break
+			 case 'inviter': {
+                if (!q) return reply(`Klik salah satu link:
+
+*Nezugi* 
+
+https://api.whatsapp.com/send?phone=62895391158070&text=Halo+kak+boleh+invite+saya+ingame+ke+guild+specta
+
+*●︿●Kanrojixo* 
+
+https://api.whatsapp.com/send?phone=6288245675883&text=Halo+kak+boleh+invite+saya+ingame+ke+guild+specta
+
+⚠️ *Note :* Mohon bersabar jika admin yang anda hubungi sedang tidak ada/Offline,Sertakan *IGN* dan *Lokasi* anda di dalam pesan tersebut.⚠️`)
+              }
+			break
             case 'listmsg': {
                 let msgs = JSON.parse(fs.readFileSync('./database/database.json'))
 	        let seplit = Object.entries(global.db.data.database).map(([nama, isi]) => { return { nama, ...isi } })
