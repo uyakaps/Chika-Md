@@ -1840,7 +1840,7 @@ case 'webtonsearch': case 'webtoon':
 				if (!q) return reply(`Penggunaan ${command} text\n\nContoh : ${command} saya wibu`)
 					const kena = ['Karena lo wibu', 'Gk tau kak dia emang gitu', 'Off eregsi berat', 'Gk usah ngeluh mulu kak']
 					const pah = kena[Math.floor(Math.random() * kena.length)]
-chika.sendMessage(from, { text: `Pertanyaan : Apakah ${q}\nJawaban : ${pah}` }, { quoted: m })
+chika.sendMessage(from, { text: `Pertanyaan : Kenapa ${q}\nJawaban : ${pah}` }, { quoted: m })
 					
 break
             case 'waifu': case 'husbu': case 'neko': case 'shinobu': case 'megumin': case 'waifus': case 'nekos': case 'trap': case 'blowjob': {
