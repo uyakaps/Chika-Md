@@ -3333,7 +3333,27 @@ Sudah Berapa Lama Main Toram :
    Form Diatas Diisi *Dengan Serius* Demi Kenyamanan Bersama.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 `)
-		    
+		let btn = [{
+                                urlButton: {
+                                    displayText: 'YouTube Creator',
+                                    url: `${youtube}`
+                                }
+                            }, {
+                                urlButton: {
+                                    displayText: `Rest Api's`,
+                                    url: `${myweb}`
+                                }
+                            }, {
+                                quickReplyButton: {
+                                    displayText: 'Donasi',
+                                    id: 'donasi'
+                                }
+                            }, {
+                                quickReplyButton: {
+                                    displayText: 'Menu',
+                                    id: 'menu'
+                                }
+                            }]    
 
             reply(mess.wait)
 
