@@ -28,7 +28,6 @@ const { FajarNews, BBCNews, metroNews, CNNNews, iNews, KumparanNews, TribunNews,
 const cerpen = require('./lib/cerpen')
 
 // Read Database
-let welkom = JSON.parse(fs.readFileSync('./database/group/welcome.json'))
 let tebaklagu = db.data.game.tebaklagu = []
 let _family100 = db.data.game.family100 = []
 let kuismath = db.data.game.math = []
