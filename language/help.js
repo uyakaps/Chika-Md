@@ -52,7 +52,385 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}upvote
   *≻* ${prefix}cekvote
   *≻* ${prefix}hapusvote
-  
+  ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎ *Rpg-Absen*
+• .daily (Ⓛ)
+• .gethadiah
+• .hadiah
+• .monthly (Ⓛ)
+• .weekly (Ⓛ)
+
+
+ *Rpg*
+• .adventure (Ⓛ)
+• .pull <jumlah> (Ⓛ)
+• .pullall (Ⓛ)
+• .atm <jumlah> (Ⓛ)
+• .atmall (Ⓛ)
+• .berkebon (Ⓛ)
+• .feed [pet type] (Ⓛ)
+• .open <crate> (Ⓛ)
+• .heal (Ⓛ)
+• .inv (Ⓛ)
+• .kolam (Ⓛ)
+• .leaderboard [jumlah user]
+• .membunuh *@tag* (Ⓛ)
+• .meracik [type] (Ⓛ)
+• .merampok *@tag* (Ⓛ)
+• .mulung (Ⓛ)
+• .nambang (Ⓛ)
+• .nebang (Ⓛ)
+• .ramuan [pet type] (Ⓛ)
+• .shop <sell|buy> <args> (Ⓛ)
+• .shopfish <sell|buy> <args> (Ⓛ)
+• .transfer (Ⓛ)
+
+
+ *Game*
+• .asahotak (Ⓛ)
+• .caklontong (Ⓛ)
+• .delttt (Ⓛ)
+• .dungeon [nama room]
+• .family100 (Ⓛ)
+• .fighting (Ⓛ)
+• .hunter (Ⓛ)
+• .pancing <type> (Ⓛ)
+• .judi <jumlah> (Ⓛ)
+• .lengkapikalimat (Ⓛ)
+• .math <mode> (Ⓛ)
+• .siapakahaku (Ⓛ)
+• .suit (Ⓛ)
+• .suitpvp @tag (Ⓛ)
+• .susunkata (Ⓛ)
+• .tebakanime (Ⓛ)
+• .tebakbendera (Ⓛ)
+• .tebakgambar (Ⓛ)
+• .tebakgame (Ⓛ)
+• .tebakkata (Ⓛ)
+• .tebakkimia (Ⓛ)
+• .tebaklagu (Ⓛ)
+• .tebaklirik (Ⓛ)
+• .tekateki (Ⓛ)
+• .tictactoe [custom room name] (Ⓛ)
+• .ttt [custom room name] (Ⓛ)
+
+
+ *Exp, Limit & Pay*
+• .buy <jumlah limit>
+• .buyall
+• .cupon [@user] (Ⓛ)
+• .dompet [@user]
+• .exp [@user]
+• .levelup
+• .limit [@user]
+
+
+ *Sticker*
+• .attp <teks> (Ⓛ)
+• .emojimix (Ⓛ)
+• .semoji (Ⓛ)
+• .smeme (Ⓛ)
+• .stickercry (Ⓛ)
+• .stickerhug (Ⓛ)
+• .stickerkiss (Ⓛ)
+• .stiker (caption|reply media) (Ⓛ)
+• .stiker <url> (Ⓛ)
+• .stikergif (caption|reply media) (Ⓛ)
+• .stikergif <url> (Ⓛ)
+• .stikertelegram <url> (Ⓛ) (Ⓟ)
+• .triggered (Ⓛ)
+• .ttp <teks>
+• .wanted (Ⓛ)
+• .wm <packname>|<author> (Ⓛ)
+
+
+ *Main*
+• .afk [alasan] (Ⓛ)
+• .ceksn (Ⓛ)
+• .menu
+• .ref
+• .daftar <nama>.<umur>
+• .sewa
+• .unreg <SERIAL NUMBER>
+
+
+ *Kerang Ajaib*
+• .apakah <teks>? (Ⓛ)
+• .kapan <text>? (Ⓛ)
+• .kapankah <text>? (Ⓛ)
+• .siapa <teks> (Ⓛ)
+• .siapakah <teks> (Ⓛ)
+
+
+ *Quotes*
+• .quotesanime (Ⓛ)
+• .bucin (Ⓛ)
+• .kata <opsi> (Ⓛ)
+• .quotes (Ⓛ)
+
+
+ *Admin*
+• .demote <@user>
+• .kick @user (Ⓛ)
+• .promote <@user>
+
+
+ *Group*
+• .group *open / close*
+• .add @user
+• .enable <option>
+• .disable <option>
+• .cekexpired
+• .infogrup
+• .grouplist
+• .grouptime <open/close> <number>
+• .kick @user
+• .gc
+• .group
+• .link
+• .listadmin
+• .hidetag [teks] (Ⓛ)
+• .readviewonce
+• .revoke
+• .setppgroup
+• .setdeskgroup <text>
+• .setwelcome <teks>
+• .tagall <pesan>
+• .tagme
+
+
+ *Internet*
+• .anime <judul> (Ⓛ)
+• .brainly <soal> (Ⓛ)
+• .cecan (Ⓛ)
+• .cerpen (Ⓛ)
+• .cogan (Ⓛ)
+• .get <url> (Ⓛ)
+• .gimage <search> (Ⓛ)
+• .githubstalk (Ⓛ)
+• .google <search> (Ⓛ)
+• .igstalk <username> (Ⓛ)
+• .kbbi <kata> (Ⓛ)
+• .loli (Ⓛ)
+• .lirik <teks> (Ⓛ)
+• .peta <wilayah> (Ⓛ)
+• .neko (Ⓛ)
+• .pinterest <text> (Ⓛ)
+• .playstore (Ⓛ)
+• .ppcouple (Ⓛ)
+• .puisi (Ⓛ)
+• .ss <url> (Ⓛ)
+• .ssf <url> (Ⓛ)
+• .translate <lang> <teks> (Ⓛ)
+• .waifu (Ⓛ)
+• .wikipedia <text> (Ⓛ)
+
+
+ *Anonymous Chat*
+• .start,skip,stop,next
+• .sendkontak
+
+
+ *Downloader*
+• .fb <url> (Ⓛ)
+• .fb2 <url> (Ⓛ)
+• .gitclone <url> (Ⓛ)
+• .ig <url> (Ⓛ)
+• .igstory <username> (Ⓛ)
+• .joox <judul> (Ⓛ)
+• .lirplay (Ⓛ)
+• .lirplay2 (Ⓛ)
+• .mediafire <url> (Ⓛ)
+• .play <search> (Ⓛ)
+• .play2 <search> (Ⓛ)
+• .sfile (Ⓛ)
+• .tiktok <url> (Ⓛ)
+• .twitter <url> (Ⓛ)
+• .ytmp3 <url> [server: id4, en60, en61, en68] (Ⓛ)
+• .yta <url> [server: id4, en60, en61, en68] (Ⓛ)
+• .ytmp4 <url> [server: id4, en60, en61, en68] (Ⓛ)
+• .ytv <url> [server: id4, en60, en61, en68] (Ⓛ)
+• .yt <url> [server: id4, en60, en61, en68] (Ⓛ)
+• .zippyshare <url> (Ⓛ) (Ⓟ)
+
+
+ *Berita*
+• .cnnnews (Ⓛ)
+• .kompasnews (Ⓛ)
+• .liputan6 (Ⓛ)
+• .metronews (Ⓛ)
+• .tribunnews (Ⓛ)
+
+
+ *Tools*
+• .calc <expression> (Ⓛ)
+• .carigrup <pencarian> (Ⓛ)
+• .del (Ⓛ)
+• .delete (Ⓛ)
+• .githubsearch <pencarian> (Ⓛ)
+• .kalkulator <soal> (Ⓛ)
+• .mycontact (Ⓛ)
+• .ocr (Ⓛ)
+• .totext (Ⓛ)
+• .qr <teks> (Ⓛ)
+• .qrcode <teks> (Ⓛ)
+• .readmore <teks>|<teks> (Ⓛ)
+• .q (Ⓛ)
+• .spamcall <nomor> (Ⓛ) (Ⓟ)
+• .tinyurl <link> (Ⓛ)
+• .totalfitur (Ⓛ)
+• .tourl (Ⓛ)
+• .tts <lang> <teks> (Ⓛ)
+• .upload (caption|reply media) (Ⓛ)
+• .yts <pencarian> (Ⓛ)
+• .ytsearch <pencarian> (Ⓛ)
+
+
+ *Fun*
+• .alay (Ⓛ)
+• .artinama [name] (Ⓛ)
+• .alay (Ⓛ)
+• .dare (Ⓛ)
+• .halah <teks> (Ⓛ)
+• .hilih <teks> (Ⓛ)
+• .huluh <teks> (Ⓛ)
+• .heleh <teks> (Ⓛ)
+• .holoh <teks> (Ⓛ)
+• .jadian (Ⓛ)
+• .namaninja <teks> (Ⓛ)
+• .rate (Ⓛ)
+• .reaction <reply> (Ⓛ)
+• .truth (Ⓛ)
+
+
+ *Database*
+
+
+ *Voting*
+• .cekvote
+• .hapusvote
+• .mulaivote [alasan] (Ⓛ)
+• .upvote
+• .devote
+
+
+ *Absen*
+• .absen
+• .cekabsen
+• .hapusabsen
+• .mulaiabsen [teks]
+
+
+ *Catatan*
+• .buatcatatan <title|isi>
+• .hapuscatatan title
+• .lihatcatatan <title>
+
+
+ *Jadian*
+• .cekpacar (Ⓛ)
+• .ikhlasin (Ⓛ)
+• .putus (Ⓛ)
+• .tembak *@tag* (Ⓛ)
+• .terima *@tag* (Ⓛ)
+• .tolak *@tag* (Ⓛ)
+
+
+ *Islami*
+• .alquran <114> <1>
+• .asmaulhusna [nomor]
+• .hadis
+• .kisahnabi <name> (Ⓛ)
+• .jadwalsalat <kota> (Ⓛ)
+
+
+ *Owner*
+• .prem *@tag|days*
+• .banchat
+• .ban *@tag|days*
+• .block <@user>
+• .broadcast <teks>
+• .bc <teks>
+• .broadcastchats <teks>
+• .bcchats <teks>
+• .broadcastgroup <teks>
+• .bcgc <teks>
+• .debounce
+• .unprem
+• .enable <option>
+• .disable <option>
+• .delexpired
+• .expired <hari>
+• .getdatabase
+• .getplugin <teks>
+• .getsessi
+• .resetlimit
+• .reset
+• .savefile <path>
+• .sf <path>
+• .setmenu <teks>
+• .setmenubefore <teks>
+• .setmenuheader <teks>
+• .setmenubody <teks>
+• .setmenufooter <teks>
+• .setmenuafter <teks>
+• .setppbot
+• .simulate <event> [@mention]
+• .otransfer
+• .unbanchat
+• .unban
+• .unblock <@user>
+
+
+ *Advanced*
+• >
+• =>
+
+
+ *Info*
+• .allprofile [@user] (Ⓛ)
+• .listbanned
+• .infocovid <country>
+• .owner
+• .creator
+• .infocuaca <city> (Ⓛ)
+• .database (Ⓛ)
+• .user (Ⓛ)
+• .donasi
+• .infogempa (Ⓛ)
+• .listpremium (Ⓛ)
+• .profile [@user] (Ⓛ)
+• .report <fitur> (Ⓛ)
+• .ping
+• .speed
+• .speedtest
+
+
+ *Audio*
+• .tomp3
+• .tovn
+• .bass [vn] (Ⓛ)
+• .blown [vn] (Ⓛ)
+• .deep [vn] (Ⓛ)
+• .earrape [vn] (Ⓛ)
+• .fast [vn] (Ⓛ)
+• .fat [vn] (Ⓛ)
+• .nightcore [vn] (Ⓛ)
+• .reverse [vn] (Ⓛ)
+• .robot [vn] (Ⓛ)
+• .slow [vn] (Ⓛ)
+• .smooth [vn] (Ⓛ)
+• .tupai [vn] (Ⓛ)
+• .vibra [vn] (Ⓛ)
+
+
+ *Maker*
+• .tahta <teks> (Ⓛ)
+• .lolice
+• .togif (reply)
+• .toimg (reply) (Ⓛ)
+
+
+*Made by ♡*
   *DOWNLOADER MENU*
   *≻* ${prefix}tiktoknowm 
   *≻* ${prefix}tiktokwm 
