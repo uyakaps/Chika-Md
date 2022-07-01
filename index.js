@@ -2989,9 +2989,9 @@ zolban: (c42)`)
 			 case 'inviter': {
                 if (!q) return reply(`Klik salah satu link:
 
-*Nezugi* 
+*Putri* 
 
-https://api.whatsapp.com/send?phone=62895391158070&text=Halo+kak+boleh+invite+saya+ingame+ke+guild+specta
+https://api.whatsapp.com/send?phone=6285930097429&text=Halo+kak+boleh+invite+saya+ingame+ke+guild+specta
 
 *●︿●Kanrojixo* 
 
@@ -3428,6 +3428,8 @@ Sudah Berapa Lama Main Toram :
 220-230 Espectro
 230-236 nena meta(ulti) 
 236-245 bull
+245-250 bull
+245-250 ignitrus
 *Lvling orang beda-beda kalo bingung dimana tanya digrub*`)
             reply(mess.wait)
             let res = await fetchJson(api('zenz', '/webzone/wattpad', { query: text }, 'apikey'))
