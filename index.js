@@ -3389,10 +3389,7 @@ Sudah Berapa Lama Main Toram :
             }
             break
             case 'buffland': {
-            if (!q) return reply(`getmsg buff *sedang mencari database buff*
-︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
-
-*Update date database :* 13 juni 2022`)
+            if (!q) return reply(`Getmsg buff`)
             reply(mess.wait)
             let res = await fetchJson(api('zenz', '/webzone/amino', { query: text }, 'apikey'))
             let capt = `Amino Search From : ${text}\n\n`
