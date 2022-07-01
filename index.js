@@ -3295,8 +3295,7 @@ let capt = `⭔ Title: ${judul}
             break
             case 'forminfo': case 'welcome': {
 
-                if (!q) return reply(`getmsg rule
-		━━━༺ _*WELCOME*_ ༻━━━
+                if (!q) return reply(`getmsg rule ━━━༺ _*WELCOME*_ ༻━━━
 
 .｡.:✧ *To Specta Vermelion* ✧:.｡.
 
@@ -3390,8 +3389,7 @@ Sudah Berapa Lama Main Toram :
             }
             break
             case 'buffland': {
-            if (!q) return reply(`getmsg buff
-	    *sedang mencari database buff*
+            if (!q) return reply(`getmsg buff *sedang mencari database buff*
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 
 *Update date database :* 13 juni 2022`)
