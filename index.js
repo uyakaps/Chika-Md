@@ -3293,7 +3293,7 @@ let capt = `⭔ Title: ${judul}
             chika.sendImage(m.chat, thumb, capt, m)
             }
             break
-            case 'forminfo': {
+            case 'forminfo': case 'welcome': {
 
                 if (!q) return reply(`━━━༺ _*WELCOME*_ ༻━━━
 
@@ -3664,7 +3664,7 @@ bagi yg mau join silahkan, gk mau gpp`)
             reply(capt)
             }
             break
-            case 'rules': {
+            case 'rules': case 'welcome': {
             if (!q) return reply(`Setelah Mengisi Form Harap Membaca Tentang Aturan Di Dalam Guild
 
 - Jaga *ATTITUDE*
