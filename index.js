@@ -2893,94 +2893,90 @@ Akses dengan ${prefix}getmsg ${text}
 Lihat list Pesan Dengan ${prefix}listmsg`)
             }
             break
-            case 'gemdye': {
-                if (!q) return reply(`ancient empress: (b26)
-ancient empress (high difficulty): N/A
-arachnidemon: (b59)
-aranea: c8
-astol: (c77)
-b.b. goblin: (b66)
-bexiz: b82
-black knight of delusion: (a79)
-black shadow: (b2)
-boss colon: (c23)
-boss goblin: (c67)
-boss roga: (a73)
-brutal dragon decel: (a6)
-cerberus: (b15)
-crystal titan: (c37)
-demon's gate: (c80)
-demonic quasar: (a83)
-eerie crystal: (a77)
-eroded pilz: (c6)
-evil crystal beast: (a49)
-excavated golem: (c13)
-ferzen the rock dragon: b8
-finstern the dark dragon: (a84)
-flare volg: (a26)
-forest wolf: (b40)
-forestia: (b60)
-ganglef: a36
-gemma: (b25)
-gespenst: (b3)
-goldoon: a38/c76
-goovua: (c12)
-grass dragon yelb: (b76)
-gravicep: (b73)
-guignol: (b44)
-gwaimol: (b48)
-hexter: (c32)
-iconos: (c35)
-ifrid: (c18)
-imitacia: (b25)
-imitator: N/A
-inzanio the dark knight: (b42)
-irestida: (c32)
-jade raptor: (a56)
-junior dragon zyvio: (c55)
-king piton: (c37)
-kuzto: a73
-lalvada: (b58)
-mardula: (b74)
-masked warrior: (c36)
-maton sword: a81
-mauez: a6
-memecoleous: (a45)
-minotaur: b80
-mochelo: (c3)
-mom fluck: (b81)
-mozto machina: (c61)
-nurethoth: a36
-oculasignio: b75
-ooze: (b50)
-ornlarf: (b65)
-pillar golem: (a83)
-pisteus: (b19)
-proto leon: b82
-pyxtica: (b63)
-reliza: (c5)
-repthon: N/A
-ruin golem: (c57)
-sapphire roga: (c83]
-scrader: (b69)
-seele zauga: (b20)
-shampy: (b74)
-tapir: (b55)
-tuscog: (c40)
-twilight dragon: (c22)
-tyrant machina: c28
-ultimate machina: (c24)
-velum: a45
-venena coenubia: b17
-venena metacoenubia: (a59)
-vlam the flame dragon: (a8)
-vulture: (b29)
-war dragon turba: (c75)
-warmonger: (c60)
-york: (c58)
-zahhak machina: c68
-zelbuse: (b64)
-zolban: (c42)`)
+            case 'listdye': {
+                if (!q) return reply(`LIST DYE BULAN JULI 2022
+ancient empress c39
+arachnidemon a28
+aranea b45
+astol c77
+b.b.goblin c29
+bexiz a48
+bkod c79
+black shadow b11
+bos colon a70
+bos goblin c37
+bos roga a16
+decel a43
+cerberus a75
+titan crystal a30
+demon gate c46
+quasar c42
+eerie crystal a77
+eroded pilz b29
+ecb c45
+excavated golem c30
+ferzen a31
+finstern b9
+flare volg a80
+forest wolf c54
+forestia b9
+ganglef b36
+gemma a58
+gespent c33
+gespent hd c33
+goovua c22
+dragon yelb a69
+gravicep a2
+guignol a17
+gwaimol b78
+hexter c4
+iconos a28
+ifrid c1
+imitacia b31
+imitator b65
+inzanio c15
+irestida a4
+jade raptor c32
+zyvio a51
+king piton c73
+kuzto c2
+lalvada c34
+mardula b53
+masked warrior a36maton a40
+mauez a43
+memecloeus a68
+minotaur b3
+mochelo a33
+mom fluck a40
+mozto c44
+nurethot b79
+ocuglasignio c47
+ooze a53
+ornflarf c21
+pillar golem a56
+proto leon a48
+pyxtica a46
+reliza b21
+repthon c32
+ruin golem b40
+sapphire roga b42
+scrader a82
+seele zauga c46
+shampy b10
+tapir c65
+tuscog b83
+twilight dragon a62
+tyrant machina c41
+ultimate machina b64
+velum b54
+venena I c77
+venena II b28
+vlam c74
+vulture b35
+war dragon turba a4
+warmonger c9
+zahhak a74
+zelbuse b13`)
                 let msgs = global.db.data.database
                 if (!(text.toLowerCase() in msgs)) throw `'${text}' tidak terdaftar di list pesan`
                 chika.copyNForward(m.chat, msgs[text.toLowerCase()], true)
