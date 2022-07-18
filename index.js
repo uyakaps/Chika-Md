@@ -3460,7 +3460,7 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 
 🍄 *+Aggro* 
 • Nirvana : LV 9
-• Huan Mei : LV 7
+• Huan Mei : LV 8
 • Ral : LV 6
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
@@ -3502,7 +3502,7 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 • P7.  : LV 6
 • Aimi : LV 7
 • Randgrid : LV 5
-• AscaRev : LV 5
+• AscaRev : LV 6
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 
@@ -3548,7 +3548,7 @@ Buff ada setiap hari, jika ada yg tidak masak atau roomnya kosong mohon dimaklum
 
 ︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶꒦꒷︶
 
-*Update date :* 1 Juli 2022
+*Update date :* 18 Juli 2022
 ☀️🌙 *Damage to Element* 🌙☀️
 
 Buff DTE ada setiap hari Rabu atau Sabtu atau mungkin keduanya
